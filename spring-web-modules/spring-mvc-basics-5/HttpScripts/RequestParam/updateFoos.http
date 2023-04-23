@@ -1,0 +1,2 @@
+POST http://localhost:8080/spring-mvc-basics/api/foos1?name=wagner&age=23
+

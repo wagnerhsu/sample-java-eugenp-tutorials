@@ -1,0 +1,4 @@
+GET http://localhost:8080/spring-mvc-basics/myfoos/optionalParam
+
+###
+GET http://localhost:8080/spring-mvc-basics/myfoos/optionalParam?id=3

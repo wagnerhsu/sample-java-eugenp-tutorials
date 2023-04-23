@@ -1,0 +1,7 @@
+GET http://localhost:8080/spring-mvc-basics/myfoos/optional
+
+
+
+###
+@id = 2
+GET http://localhost:8080/spring-mvc-basics/myfoos/optional/{{id}}
