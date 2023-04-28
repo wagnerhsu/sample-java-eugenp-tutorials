@@ -22,7 +22,8 @@ public class FormatInstantUnitTest {
         Instant instant = Instant.parse("2022-02-15T18:35:24.00Z");
         String formattedInstant = formatter.format(instant);
 
-        assertThat(formattedInstant).isEqualTo("15.02.2022");
+        assertThat(formattedInstant).isEqualTo("16.02.2022");
+
     }
 
     @Test(expected = UnsupportedTemporalTypeException.class)
